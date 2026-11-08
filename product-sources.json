@@ -1,0 +1,119 @@
+[
+  {
+    "id": "brand-alo",
+    "brand": "Alo",
+    "name": [
+      "Accolade Hoodie",
+      "Accolade 连帽卫衣"
+    ],
+    "photo": "assets/inspire-alo.jpg",
+    "official": "https://www.aloyoga.com/products/w3550rg-accolade-hoodie-black",
+    "item": null,
+    "curated": true,
+    "imageSource": "https://www.aloyoga.com/cdn/shop/files/U3031RG_01_b1_s1_a4_dFA26_m191_1024x1024.jpg?v=1785276331"
+  },
+  {
+    "id": "brand-lulu",
+    "brand": "lululemon",
+    "name": [
+      "Define Cropped Jacket · Nulu",
+      "Define Nulu 短款外套"
+    ],
+    "photo": "assets/lululemon-user.png",
+    "official": "https://shop.lululemon.com/p/nulu-cropped-define-jacket/oo2vz3qc01?color=72761",
+    "item": "lulu-define",
+    "curated": true,
+    "imageSource": null
+  },
+  {
+    "id": "brand-ralph",
+    "brand": "Ralph Lauren",
+    "name": [
+      "Cable-Knit Cotton Polo Sweater",
+      "绞花棉质 Polo 针织衫"
+    ],
+    "photo": "assets/inspire-ralph.jpg",
+    "official": "https://www.ralphlauren.com/women-clothing-sweaters/cable-knit-cotton-polo-sweater/0080244353.html",
+    "item": null,
+    "curated": true,
+    "imageSource": "https://dtcralphlauren.scene7.com/is/image/PoloGSI/s7-AI200932224016_alternate10?$rl_4x5_pdp$=&wid=800&fmt=jpeg"
+  },
+  {
+    "id": "brand-skims",
+    "brand": "SKIMS",
+    "name": [
+      "NikeSKIMS Stretch Knit Short Sleeve Top",
+      "NikeSKIMS 弹力针织短袖上衣"
+    ],
+    "photo": "assets/inspire-skims.jpg",
+    "official": "https://skims.com/products/nikeskims-stretch-knit-short-sleeve-top-boulder-and-ecru",
+    "item": null,
+    "curated": true,
+    "imageSource": "https://cdn.shopify.com/s/files/1/0259/5448/4284/files/NIKESKIMS-TOP-IW4202-080-FLT.jpg?v=1792105123"
+  },
+  {
+    "id": "brand-ref",
+    "brand": "Reformation",
+    "name": [
+      "Iris Knit Top",
+      "Iris 不对称领针织上衣"
+    ],
+    "photo": "assets/reformation-iris.png",
+    "official": "https://www.thereformation.com/products/iris-knit-top/1318710PVT.html?dwvar_1318710PVT_color=PVT",
+    "item": "iris",
+    "curated": true,
+    "imageSource": null
+  },
+  {
+    "id": "brand-uniqlo",
+    "brand": "UNIQLO",
+    "name": [
+      "Scalloped Cardigan",
+      "波浪边针织开衫"
+    ],
+    "photo": "assets/inspire-uniqlo.jpg",
+    "official": "https://www.uniqlo.com/us/en/products/E482978-000/00",
+    "item": null,
+    "curated": true,
+    "imageSource": "https://image.uniqlo.com/UQ/ST3/us/imagesgoods/482978/item/usgoods_38_482978_3x4.jpg"
+  },
+  {
+    "id": "brand-zara",
+    "brand": "ZARA",
+    "name": [
+      "Draped Knit Top",
+      "褶皱针织上衣"
+    ],
+    "photo": "assets/inspire-zara.jpg",
+    "official": "https://www.zara.com/us/en/draped-knit-top-p03921120.html",
+    "item": null,
+    "curated": true,
+    "imageSource": "https://static.zara.net/assets/public/51a8/1ba6/e97147f69261/8557ad9d48dc/03921120815-p/03921120815-p.jpg?f=jpg&ts=1791216213507&w=800"
+  },
+  {
+    "id": "brand-brandy",
+    "brand": "Brandy Melville",
+    "name": [
+      "Nikki Striped Sweater",
+      "Nikki 条纹针织衫"
+    ],
+    "photo": "assets/inspire-brandy.jpg",
+    "official": "https://us.brandymelville.com/products/nikki-striped-sweater",
+    "item": null,
+    "curated": true,
+    "imageSource": "https://us.brandymelville.com/cdn/shop/files/mnj274-q27s66a0000_1.jpg?v=1792687150"
+  },
+  {
+    "id": "brand-ck",
+    "brand": "Calvin Klein",
+    "name": [
+      "Sherpa Collar Padded Bomber Jacket",
+      "羊羔绒领夹棉飞行员外套"
+    ],
+    "photo": "assets/inspire-ck.jpg",
+    "official": "https://www.calvinklein.us/en/women/apparel/womens-outerwear/sherpa-collar-padded-bomber-jacket/47J507G-UB1.html",
+    "item": null,
+    "curated": true,
+    "imageSource": "https://calvinklein.scene7.com/is/image/CalvinKlein/47J507G_UB1_main?wid=800&qlt=85&fmt=jpeg"
+  }
+]
